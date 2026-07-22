@@ -39,4 +39,7 @@ console.log(`ola, ${nome}!`);
 | HTML    | Sim     | Ativo  |
 |markdown | sim     | Ativo  |
 
-![PC](pc.jpg)
+
+
+
+![PC](md63_Nnd.jpg)
