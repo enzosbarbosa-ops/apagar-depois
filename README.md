@@ -37,4 +37,4 @@ console.log(`ola, ${nome}!`);
 | recurso | suporte | status |
 | :---    | :---    | :---   |
 | HTML    | Sim     | Ativo  |
-|markdown | sim     | Ativo
+|markdown | sim     | Ativo  |
