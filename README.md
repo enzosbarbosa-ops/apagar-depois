@@ -38,3 +38,5 @@ console.log(`ola, ${nome}!`);
 | :---    | :---    | :---   |
 | HTML    | Sim     | Ativo  |
 |markdown | sim     | Ativo  |
+
+![PC](pc.jpg)
